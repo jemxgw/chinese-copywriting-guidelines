@@ -1,6 +1,6 @@
 # 中文文案排版指北
 [![devDependency Status](https://david-dm.org/mzlogin/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/mzlogin/chinese-copywriting-guidelines#info=devDependencies)
-
+增加一个 rst [格式说明](http://www.cnblogs.com/seayxu/p/5603876.html)
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
 Other languages:
